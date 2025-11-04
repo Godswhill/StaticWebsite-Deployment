@@ -17,7 +17,7 @@ The script demonstrates the use of **Infrastructure as Code (IaC)** concepts for
 
 ## Objective
 
-Deploy a **static website** (HTML/CSS/JS) onto **Microsoft Azure** using **automation scripting**.
+Deploy a **static website** (HTML/CSS) onto **Microsoft Azure** using **automation scripting**.
 
 ---
 
