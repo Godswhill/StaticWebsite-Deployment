@@ -116,7 +116,7 @@ Open that IP in your browser to view your deployed site.
 
 ---
 
-## 🧼 Clean Up (Optional)
+## Clean Up (Optional)
 
 To delete all Azure resources and avoid extra costs:
 
