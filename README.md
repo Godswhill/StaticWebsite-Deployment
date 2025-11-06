@@ -103,7 +103,7 @@ Run the script with your local website folder as an argument:
 Example:
 
 ```bash
-./capstone.sh ~/Documents/my-website
+./capstone.sh index.html/
 ```
 
 Once completed, you’ll see an output like:
