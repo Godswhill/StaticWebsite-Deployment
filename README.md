@@ -52,6 +52,7 @@ Azure Resource Group
        └── Hosted at /var/www/html
 ```
 
+
 ---
 
 ## Prerequisites
